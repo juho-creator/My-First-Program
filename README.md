@@ -7,7 +7,7 @@ Link to RiverCrossingChallenge: http://thephysicsaviary.com/Physics/Programs/Gam
 
 
 
-HOW IT ALL STARTED 
+# HOW IT ALL STARTED 
 The idea initially came up to my mind when our physics teacher graded one of our assignments based on the high score from playing the game in River Crossing Lab.
 I was playing the game manually for a while, but at one point, I realized the variables (River Width, Boat, Current) were always constant except the values that each variable is storing. 
 
