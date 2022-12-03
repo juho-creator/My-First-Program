@@ -20,3 +20,7 @@ And that's how I came up with my program.
 
 
 # How to use the program
+1. Download "Loggers.8xp"
+2. Load the program on to your calculator
+3. Type in the values of the variables into your calculator
+4. Launch the boat at the given angle
