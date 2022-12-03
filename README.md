@@ -8,11 +8,14 @@ Link to RiverCrossingChallenge: http://thephysicsaviary.com/Physics/Programs/Gam
 
 
 # HOW IT ALL STARTED 
-The idea initially came up to my mind when our physics teacher graded one of our assignments based on the high score from playing the game in River Crossing Lab.
-I was playing the game manually for a while, but at one point, I realized the variables (River Width, Boat, Current) were always constant except the values that each variable is storing. 
+The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from playing the game in River Crossing Lab.
+
+I was playing the game manually for a while, but at one point, I realized the variables (River Width, Boat, Current) remained constant except the values of each variables.
 
 So I thought...
-What if I could plug in River Width, Speed of boat, Speed of river on my Ti-84 Calculator and simply just obtain the launching angle to reach the exact location?
+What if I could plug in the value of each variables on my Ti-84 Calculator and simply obtain the launching angle to reach the exact location?
+Wouldn't that make everything much easier?
+
 And that's how I came up with my program.
 
 
