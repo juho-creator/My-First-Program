@@ -1,4 +1,5 @@
-# River-crossing-simulation (TI-BASIC)
+
+## River-crossing-simulation (TI-BASIC)
 This is a Ti 84 program that calculates the angle at which the boat should be launched to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
