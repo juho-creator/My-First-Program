@@ -3,7 +3,7 @@
 This is a Ti-84 calculator program that calculates the angle at which the boat should be launched to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
-Link to RiverCrossingChallenge: http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/
+[Link to RiverCrossingChallenge]: (http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
 
 
 
