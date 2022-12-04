@@ -51,7 +51,7 @@ Wouldn't that make everything much easier?
 
 
 ## 프로그램 사용법
-[프로그램 설명 링크 : ](https://www.youtube.com/watch?v=T5AqJLfeY-s)
+[프로그램 설명 링크 :] (https://www.youtube.com/watch?v=T5AqJLfeY-s)
 1. "Loggers.8xp" 다운로드
 2. 프로그램을 계산기에 업로드한다.
 3. 계산기에서 프로그램을 실행한다.
