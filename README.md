@@ -1,4 +1,5 @@
-# English
+# ENGLISH
+
 
 ### Loggers (TI-BASIC)
 This is a Ti-84 calculator program that calculates the launch angle of the boat in order to cross the river and reach the exact location.
