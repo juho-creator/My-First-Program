@@ -52,7 +52,7 @@ Wouldn't that make everything much easier?
 
 ## 프로그램 사용법
 [프로그램 설명 링크](https://www.youtube.com/watch?v=T5AqJLfeY-s)
-1. "Loggers.8xp" 다운로드
+1. "Loggers.8xp" 다운로드 [다운로드](Loggers.8xp)
 2. 프로그램을 계산기에 업로드한다.
 3. 계산기에서 프로그램을 실행한다.
 4. 계산기에 변수 값을 입력한다.
