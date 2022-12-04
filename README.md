@@ -22,7 +22,7 @@ Wouldn't that make everything much easier?
 
 ## How to use the program
 [Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
-1. Download "Loggers.8xp"
+1. Download "Loggers.8xp" [Download](My-First-Program/Loggers.8xp)
 2. Load the program on to your calculator
 3. Initiate the program on your calculator
 4. Type in the values of the variables into your calculator
