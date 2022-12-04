@@ -21,7 +21,7 @@ Wouldn't that make everything much easier?
 
 
 ## How to use the program
-Link to program description : https://www.youtube.com/watch?v=T5AqJLfeY-s
+[Link to program description :](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
 1. Download "Loggers.8xp"
 2. Load the program on to your calculator
 3. Initiate the program on your calculator
@@ -36,7 +36,7 @@ Link to program description : https://www.youtube.com/watch?v=T5AqJLfeY-s
 이것은 보트가 강을 건너 정확한 위치에 도달하기 위한 각도를 계산하는 Ti-84 공학계산기용 프로그램입니다. 
 이 프로그램은 RiverCrossingChallenge에서 시행착오를 통해 개발되었습니다.
 
-RiverCrossingChallenge 링크: http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/
+[RiverCrossingChallenge 링크:] (http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
 
 ## 프로그램 개발의 시발점
 이 아이디어는 물리 선생님이 RiverCrossingChallenge에서 게임을 플레이하여 얻은 높은 점수를 기준으로 과제를 채점했을 때 처음 떠오른 것입니다.
@@ -51,7 +51,7 @@ RiverCrossingChallenge 링크: http://thephysicsaviary.com/Physics/Programs/Game
 
 
 ## 프로그램 사용법
-프로그램 설명 링크 : https://www.youtube.com/watch?v=T5AqJLfeY-s
+[프로그램 설명 링크 : ](https://www.youtube.com/watch?v=T5AqJLfeY-s)
 1. "Loggers.8xp" 다운로드
 2. 프로그램을 계산기에 업로드한다.
 3. 계산기에서 프로그램을 실행한다.
