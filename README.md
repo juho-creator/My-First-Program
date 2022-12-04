@@ -28,7 +28,8 @@ Link to program description : https://www.youtube.com/watch?v=T5AqJLfeY-s
 4. Type in the values of the variables into your calculator
 5. Launch the boat at the given angle
 
-
+#
+#
 # 한국어
 ## 로거스 (베이직)
 이것은 보트가 강을 건너 정확한 위치에 도달하기 위한 각도를 계산하는 Ti-84 공학계산기용 프로그램입니다. 
