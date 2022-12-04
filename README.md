@@ -1,6 +1,6 @@
 # English
 ### Loggers (TI-BASIC)
-##### This is a Ti-84 calculator program that calculates the angle at which the boat should be launched to cross the river and reach the exact location.
+This is a Ti-84 calculator program that calculates the angle at which the boat should be launched to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
 [Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
@@ -8,7 +8,7 @@ The program had been developed through experimentation in the RiverCrossingChall
 
 
 
-## HOW IT ALL STARTED 
+### HOW IT ALL STARTED 
 The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from playing the game in RiverCrossingChallenge.
 
 I was playing the game manually for a while, but at one point, I realized the variables (River Width, Boat, Current) remained constant except the values of each variables.
@@ -20,7 +20,7 @@ Wouldn't that make everything much easier?
 That's how I came up with my program.
 
 
-## How to use the program
+### How to use the program
 [Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
 1. Download "Loggers.8xp" ([Download](Loggers.8xp))
 2. Load the program on to your calculator
@@ -32,13 +32,13 @@ That's how I came up with my program.
 
 
 # 한국어
-## 로거스 (베이직)
+### 로거스 (베이직)
 이것은 보트가 강을 건너 정확한 위치에 도달하기 위한 각도를 계산하는 Ti-84 공학계산기용 프로그램입니다. 
 이 프로그램은 RiverCrossingChallenge에서 시행착오를 통해 개발되었습니다.
 
 [RiverCrossingChallenge 링크](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
 
-## 프로그램 개발의 시발점
+### 프로그램 개발의 시발점
 이 아이디어는 물리 선생님이 RiverCrossingChallenge에서 게임을 플레이하여 얻은 높은 점수를 기준으로 과제를 채점했을 때 처음 떠오른 것입니다.
 
 한동안 수동으로 게임을 하고 있었는데 어느 순간 변수(강 폭, 보트, 해류)가 각 변수의 값을 제외하고 일정하게 유지된다는 것을 깨달았습니다.
@@ -50,7 +50,7 @@ That's how I came up with my program.
 그렇게 제 첫 프로그램이 탄생했습니다.
 
 
-## 프로그램 사용법
+### 프로그램 사용법
 [프로그램 설명 링크](https://www.youtube.com/watch?v=T5AqJLfeY-s)
  1. "Loggers.8xp" 다운로드    ([다운로드](Loggers.8xp))
 2. 프로그램을 계산기에 업로드한다.
