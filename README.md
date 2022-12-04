@@ -1,7 +1,7 @@
 # English
 
 ### Loggers (TI-BASIC)
-This is a Ti-84 calculator program that calculates the angle at which the boat should be launched to cross the river and reach the exact location.
+This is a Ti-84 calculator program that calculates the launch angle of the boat in order to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
 [Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
@@ -10,9 +10,9 @@ The program had been developed through experimentation in the RiverCrossingChall
 
 
 ### HOW IT ALL STARTED 
-The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from playing the game in RiverCrossingChallenge.
+The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from the RiverCrossingChallenge.
 
-I was playing the game manually for a while, but at one point, I realized the variables (River Width, Boat, Current) remained constant except the values of each variables.
+I was playing the game manually for a while, but at one point, I realized that the variables (River Width, Boat, Current) remained constant except the values of each variables.
 
 So I thought...
 What if I could plug in the value of each variables on my Ti-84 Calculator and simply obtain the launching angle to reach the exact location?
@@ -45,8 +45,8 @@ That's how I came up with my program.
 한동안 수동으로 게임을 하고 있었는데 어느 순간 변수(강 폭, 보트, 해류)가 각 변수의 값을 제외하고 일정하게 유지된다는 것을 깨달았습니다.
 
 그래서 저는 생각했습니다...
-공학용 계산기에 각 변수의 값만 입력하여 정확한 위치에 도달하기 위한 발사 각도를 얻을 수 있다면 어떨까요?
-그럼 모든 것이 훨씬 간단하지 않을까요?
+공학용 계산기에 각 변수의 값만 입력하여 정확한 위치에 도달하기 위한 발사 각도를 얻을 수 있다면 어떨까?
+그럼 모든 것이 훨씬 간단하지 않을까?
 
 그렇게 제 첫 프로그램이 탄생했습니다.
 
