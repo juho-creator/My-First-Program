@@ -49,7 +49,8 @@ That's how I came up with my program.
 # 한국어
 ### 로거스 (베이직)<br />
 
-![Untitled_video_-_Made_with_Clipchamp_AdobeExpress](https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb)
+https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
+
 <br />
 <br />
 
