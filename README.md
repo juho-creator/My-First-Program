@@ -1,7 +1,12 @@
 # ENGLISH
 
 
-### Loggers (TI-BASIC)
+### Loggers (TI-BASIC)<br />
+
+![Untitled_video_-_Made_with_Clipchamp_AdobeExpress](https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb)
+<br />
+<br />
+
 This is a Ti-84 calculator program that calculates the launch angle of the boat in order to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
@@ -40,7 +45,12 @@ That's how I came up with my program.
 <br />
 
 # 한국어
-### 로거스 (베이직)
+### 로거스 (베이직)<br />
+
+![Untitled_video_-_Made_with_Clipchamp_AdobeExpress](https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb)
+<br />
+<br />
+
 이것은 보트가 강을 건너 정확한 위치에 도달하기 위한 각도를 계산하는 Ti-84 공학계산기용 프로그램입니다. 
 이 프로그램은 RiverCrossingChallenge에서 시행착오를 통해 개발되었습니다.
 
