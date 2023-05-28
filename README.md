@@ -3,8 +3,7 @@
 
 ### Loggers (TI-BASIC)<br />
 
-![Untitled_video_-_Made_with_Clipchamp_AdobeExpress](https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb)
-<img src="https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb" width="250" height="250"/>
+<img src="https://github.com/juho-creator/My-First-Program/assets/72856990/0ad67d8f-2d57-42ed-bb3f-92f494731aeb" width="500" height="500"/>
 
 <br />
 <br />
