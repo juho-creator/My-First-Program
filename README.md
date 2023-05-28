@@ -8,7 +8,8 @@ The program had been developed through experimentation in the RiverCrossingChall
 [Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
 
 
-
+<br />
+<br />
 
 ### HOW IT ALL STARTED 
 The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from the RiverCrossingChallenge.
@@ -21,6 +22,7 @@ Wouldn't that make everything much easier?
 
 That's how I came up with my program.
 
+<br />
 
 ### How to use the program
 [Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
@@ -32,6 +34,10 @@ That's how I came up with my program.
 
 
 
+<br />
+<br />
+<br />
+<br />
 
 # 한국어
 ### 로거스 (베이직)
@@ -39,6 +45,8 @@ That's how I came up with my program.
 이 프로그램은 RiverCrossingChallenge에서 시행착오를 통해 개발되었습니다.
 
 [RiverCrossingChallenge 링크](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
+<br />
+<br />
 
 ### 프로그램 개발의 시발점
 이 아이디어는 물리 선생님이 RiverCrossingChallenge에서 게임을 플레이하여 얻은 높은 점수를 기준으로 과제를 채점했을 때 처음 떠오른 것입니다.
@@ -51,6 +59,8 @@ That's how I came up with my program.
 
 그렇게 제 첫 프로그램이 탄생했습니다.
 
+<br />
+<br />
 
 ### 프로그램 사용법
 [프로그램 설명 링크](https://www.youtube.com/watch?v=T5AqJLfeY-s)
