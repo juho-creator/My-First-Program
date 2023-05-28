@@ -2,7 +2,7 @@
 
 
 ### Loggers (TI-BASIC)<br />
-https://github.com/juho-creator/My-First-Program/assets/72856990/417fa0a1-66ac-4234-a3c2-26f814b73fab
+https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
 
 
 
