@@ -2,7 +2,8 @@
 
 
 ### Loggers (TI-BASIC)<br />
-Uploading UntitledvideoMadewithClipchampmp4.mp4…
+https://github.com/juho-creator/My-First-Program/assets/72856990/417fa0a1-66ac-4234-a3c2-26f814b73fab
+
 
 
 <br />
