@@ -28,7 +28,7 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 <br />
 
 ## Inception of the Project
-The project idea came about when our physics teacher used the RiverCrossingChallenge game to grade our assignments, and I noticed some unchanging variables in the game that could be used to calculate launch angles using my Ti-84 Calculator, making the process much simpler. This led to the creation of this program.
+The project idea came about when our physics teacher used the RiverCrossingChallenge game to grade our assignments, and I noticed some unchanging variables in the game that could be used to calculate launch angles using my Ti-84 Calculator, making the process much simpler. This led to the creation of the first program in my life.
 
 <br />
 <br />
@@ -63,4 +63,4 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 6. **발사**: 계산된 각도로 보트를 발사하세요.
 
 ## 프로젝트 시작
-이 프로젝트 아이디어는 물리 선생님이 RiverCrossingChallenge 게임을 평가용으로 사용하실 때, 게임 속에 있던 일부 변하지 않는 변수 값들이 Ti-84 계산기를 이용해 발사 각도를 쉽게 계산할 수 있도록 도와주는 것을 발견하게 된 것에서 시작되었습니다. 이를 바탕으로 본 프로그램이 탄생하게 되었습니다.
+이 프로젝트 아이디어는 물리 선생님이 RiverCrossingChallenge 게임을 평가용으로 사용하실 때, 게임 속에 있던 일부 변하지 않는 변수 값들이 Ti-84 계산기를 이용해 발사 각도를 쉽게 계산할 수 있도록 도와주는 것을 발견하게 된 것에서 시작되었습니다. 이를 바탕으로 본 재 생의 첫 프로그램이 개발되었습니다.
