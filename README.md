@@ -1,9 +1,9 @@
 # ENGLISH
 
 ## Boat Launch Helper (TI-BASIC)
-This is a Ti-84 calculator program that calculates the launch angle of the boat to cross the river and reach the exact location.
-The program had been developed through experimentation in the RiverCrossingChallenge.
-[Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
+This Ti-84 calculator program computes the boat's launch angle required to traverse the river and arrive at a precise destination. It was crafted through experimentation within the context of the RiverCrossingChallenge. <br />
+
+([RiverCrossingChallenge Link](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/))
 
 <br />
 <br />
@@ -16,11 +16,21 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 
 ## How to use the program
 [Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
-1. Download "Loggers.8xp" ([Download](Loggers.8xp))
-2. Load the program on to your TI84 calculator
-3. Run the program on your calculator
-4. Type in the values of the variables into your calculator
-5. Launch the boat at the given angle
+
+
+1. **Download**: Get the "Loggers.8xp" program file (Download Link).
+2. **Load**: Transfer the program onto your TI84 calculator.
+3. **Run**: Execute the program on your calculator.
+4. **Input Values**: Enter the values for the following variables in your calculator.
+     * `River Width`: Width of the river
+     * `Boat Speed`: Speed of the boat
+     * `Current Speed:` Speed of the current
+     * `Target Distance`: Horizontal distance to the target destination
+5. **Launch**: Initiate the boat launch with the provided angle.
+
+
+
+
 
 
 <br />
