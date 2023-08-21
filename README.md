@@ -8,33 +8,31 @@ The program had been developed through experimentation in the RiverCrossingChall
 <br />
 <br />
 
-### How to use the program
-[Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
-1. Download "Loggers.8xp" ([Download](Loggers.8xp))
-2. Load the program on to your calculator
-3. Initiate the program on your calculator
-4. Type in the values of the variables into your calculator
-5. Launch the boat at the given angle
-
-
 ## Demonstration of program
 https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
 
 <br />
 <br />
+
+## How to use the program
+[Link to program description](https://www.youtube.com/watch?v=T5AqJLfeY-s) 
+1. Download "Loggers.8xp" ([Download](Loggers.8xp))
+2. Load the program on to your TI84 calculator
+3. Run the program on your calculator
+4. Type in the values of the variables into your calculator
+5. Launch the boat at the given angle
+
+
 <br />
 <br />
 
-### HOW IT ALL STARTED 
-The idea initially came up to my mind when our physics teacher graded one of our assignments based on our high score from the RiverCrossingChallenge.
 
-I was playing the game manually for a while, but at one point, I realized that the variables (River Width, Boat, Current) remained constant except the values of each variables.
+## Inception of the Project
+The idea for this project emerged when our physics teacher assessed one of our assignments using the RiverCrossingChallenge, a game that involves calculating high scores. While playing the game manually, I noticed that certain variables, such as River Width, Boat, and Current, remained constant, with only their values changing.
 
-So I thought...
-What if I could plug in the value of each variables on my Ti-84 Calculator and simply obtain the launching angle to reach the exact location?
-Wouldn't that make everything much easier?
+This realization sparked a thought: What if I could input these variable values into my Ti-84 Calculator and effortlessly obtain the launch angle required to reach the precise location? This approach could significantly simplify the process.
 
-That's how I came up with my program.
+And so, the concept for this program was born.
 
 <br />
 
