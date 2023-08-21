@@ -28,11 +28,7 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 <br />
 
 ## Inception of the Project
-The idea for this project emerged when our physics teacher assessed one of our assignments using the RiverCrossingChallenge, a game that involves calculating high scores. While playing the game manually, I noticed that certain variables, such as River Width, Boat, and Current, remained constant, with only their values changing.
-
-This realization sparked a thought: What if I could input these variable values into my Ti-84 Calculator and effortlessly obtain the launch angle required to reach the precise location? This approach could significantly simplify the process.
-
-And so, the concept for this program was born.
+The project idea came about when our physics teacher used the RiverCrossingChallenge game to grade our assignments, and I noticed some unchanging variables in the game that could be used to calculate launch angles using my Ti-84 Calculator, making the process much simpler. This led to the creation of this program.
 
 <br />
 <br />
@@ -67,4 +63,4 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 6. **발사**: 계산된 각도로 보트를 발사하세요.
 
 ## 프로젝트 시작
-이 프로젝트 아이디어는 물리 선생님이 RiverCrossingChallenge를 평가 과제로 사용하면서 떠오른 것입니다. 해당 게임은 높은 점수를 획득하여 이기는 게임입니다. 게임을 수동으로 플레이하면서 일정하게 유지되는 변수들(강 폭, 보트, 현재 위치 등)의 값을 변경하여 점수를 얻는 것이 가능하다는 것을 알게 되었습니다. 그 이후로, 이를 개선하고 단순화할 방법을 고민하다가, Ti-84 계산기에 변수 값을 입력하면 정확한 위치에 도달하기 위한 발사 각도를 쉽게 계산할 수 있을 것이라는 생각을 했습니다. 이 접근법은 프로세스를 크게 단순화시킬 수 있습니다. 그렇게해서 이 프로그램의 개념이 탄생되었습니다.
+이 프로젝트 아이디어는 물리 선생님이 RiverCrossingChallenge 게임을 평가용으로 사용하실 때, 게임 속에 있던 일부 변하지 않는 변수 값들이 Ti-84 계산기를 이용해 발사 각도를 쉽게 계산할 수 있도록 도와주는 것을 발견하게 된 것에서 시작되었습니다. 이를 바탕으로 본 프로그램이 탄생하게 되었습니다.
