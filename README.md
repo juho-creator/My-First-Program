@@ -1,21 +1,17 @@
-# ENGLISH
+ # ENGLISH
 
-
-### Loggers (TI-BASIC)<br />
-https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
-
-
-
-
-<br />
-<br />
-
+## Boat Launch Helper (TI-BASIC)
 This is a Ti-84 calculator program that calculates the launch angle of the boat to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
-
 [Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
 
+<br />
+<br />
+## Demonstration of
+https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
 
+<br />
+<br />
 <br />
 <br />
 
