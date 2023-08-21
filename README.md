@@ -10,7 +10,7 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 <br />
 <br />
 
-This is a Ti-84 calculator program that calculates the launch angle of the boat in order to cross the river and reach the exact location.
+This is a Ti-84 calculator program that calculates the launch angle of the boat to cross the river and reach the exact location.
 The program had been developed through experimentation in the RiverCrossingChallenge.
 
 [Link to RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)
