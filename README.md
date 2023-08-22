@@ -27,7 +27,7 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 <br />
 <br />
 
-## Inception of the Project
+## Project Inception
 The project idea came about when our highschool physics teacher used the RiverCrossingChallenge game to grade our assignments.<br />
 I got frustrated after playing the game manually for hours. At one point I noticed some unchanging variables in the game that could be used to calculate launch angles using my Ti-84 Calculator, making the manual process much simpler. This led to the creation of my very first program.
 
