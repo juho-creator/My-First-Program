@@ -1,5 +1,5 @@
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/main/README.KR.md)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/main/README.KR.md)
 
 ## Boat Launch Helper (TI-BASIC)
 * This Ti-84 calculator program computes the boat's launch angle required to traverse the river and arrive at a precise destination. <br />
