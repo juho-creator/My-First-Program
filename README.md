@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.md)
 [![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/main/README.KR.md)
 
-## Boat Launch Helper (TI-BASIC)
+# Boat Launch Helper (TI-BASIC)
 * This Ti-84 calculator program computes the boat's launch angle required to traverse the river and arrive at a precise destination. <br />
 * It was created through experimentation within the context of the [RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/). 
 
@@ -33,6 +33,6 @@ The project idea came about when our highschool physics teacher used the RiverCr
 I got frustrated after playing the game manually for hours. At one point I noticed some unchanging variables in the game that could be used to calculate launch angles using my Ti-84 Calculator, making the manual process much simpler. This led to the creation of my very first program.
 
 
-# Reference
+## Reference
 - **TI-BASIC 101** : [Watch Here](https://youtube.com/playlist?list=PLA27qre0yzVHzSQLbrR89FiTwUtskYsxv&si=S-989kKYO5VIsflX)
 - **TI-BASIC advanced** : [Watch Here](https://youtube.com/playlist?list=PLzshHAAQNIrYkCdAI3JX9aMb2U3Kro7f2&si=eQc_C0MCGHW-85cd)
