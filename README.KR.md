@@ -2,8 +2,7 @@
 
 ## 보트 출항 도우미 (TI-BASIC)
 * 이 Ti-84 계산기 프로그램은 강을 가로지르고 정확한 목적지에 도달하는 데 필요한 보트의 발사 각도를 계산합니다.
-* 이 프로그램은 RiverCrossingChallenge에서 여러 시행착오를 통해 개발되었습니다. ([RiverCrossingChallenge 링크](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/))
-
+* 이 프로그램은 [RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/))에서 여러 시행착오를 통해 개발되었습니다. 
 <br />
 <br />
 
