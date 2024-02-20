@@ -1,6 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/main/README.md)
 
-## 보트 출항 도우미 (TI-BASIC)
+# 보트 출항 도우미 (TI-BASIC)
 * 이 Ti-84 계산기 프로그램은 강을 가로지르고 정확한 목적지에 도달하는 데 필요한 보트의 발사 각도를 계산합니다.
 * 이 프로그램은 [RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/)에서 여러 시행착오를 통해 개발되었습니다. 
 <br />
@@ -29,3 +29,10 @@ https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4
 ## 프로젝트 시작
 위 프로그램은 고등학교 물리 선생님이 과제 채점에 활용하신 RiverCrossingChallenge 게임에서 아이디어가 도출되었습니다. <br />
 몇시간동안 각도를 직관적으로 조절하여 플레이하다 지쳐버린 도중, 게임 내에 일부 불변하는 변수를 이용하여 Ti-84 계산기로 발사 각도를 쉽게 계산할 수 있다는 것을 알게 되었습니다. 그렇게 제 첫 프로그램이 개발되었습니다.
+
+</br>
+</br>
+
+## 참고문헌
+- **TI-BASIC 101** : [영상 시청하기](https://youtube.com/playlist?list=PLA27qre0yzVHzSQLbrR89FiTwUtskYsxv&si=S-989kKYO5VIsflX)
+- **TI-BASIC advanced** : [영상 시청하기](https://youtube.com/playlist?list=PLzshHAAQNIrYkCdAI3JX9aMb2U3Kro7f2&si=eQc_C0MCGHW-85cd)
