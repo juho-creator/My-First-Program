@@ -3,7 +3,7 @@
 
 ## Boat Launch Helper (TI-BASIC)
 * This Ti-84 calculator program computes the boat's launch angle required to traverse the river and arrive at a precise destination. <br />
-* It was created through experimentation within the context of the RiverCrossingChallenge.  ([RiverCrossingChallenge Link](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/))
+* It was created through experimentation within the context of the [RiverCrossingChallenge](http://thephysicsaviary.com/Physics/Programs/Games/RiverCrossingChallenge/). 
 
 <br />
 <br />
