@@ -9,7 +9,8 @@
 <br />
 
 ## Demonstration of the program
-https://github.com/juho-creator/My-First-Program/assets/72856990/5f1a302b-500a-4b29-b41f-209c360bad5a
+https://github.com/juho-creator/Ti84-BoatLaunchHelper/assets/72856990/907c5a97-9150-4db8-abb5-36facbb94850
+
 
 <br />
 <br />
