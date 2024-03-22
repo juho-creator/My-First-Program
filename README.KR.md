@@ -1,4 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/main/README.md)
+[![汉语](https://img.shields.io/badge/lang-汉语-green.svg)](https://github.com/juho-creator/Ti84-BoatLaunchHelper/blob/master/README.CH.md)
+
 
 # 보트 출항 도우미 (TI-BASIC)
 * 이 Ti-84 계산기 프로그램은 강을 가로지르고 정확한 목적지에 도달하는 데 필요한 보트의 발사 각도를 계산합니다.
